@@ -1,0 +1,12 @@
+.fix {
+    clear: both;
+    overflow: hidden;
+}
+
+.vid-bg {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    max-width: 100%;
+}
