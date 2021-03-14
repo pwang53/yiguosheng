@@ -5,11 +5,11 @@ html, body {
     width: 100%;
 }
 
+/* cover */
 .pq-intro {
     height: 100%;
     width: 100%;
     margin: auto;
-    background: url(https://images.pexels.com/photos/358528/pexels-photo-358528.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260);
     display: table;
     top: 0;
     background-size: cover;
@@ -36,6 +36,7 @@ html, body {
     text-align: center;
     padding-bottom: 12%;
 }
+
 .pq-content h1 {
     font-family: 'FangSong';
     font-size: 300%;
@@ -94,3 +95,4 @@ p {
         width: 100% !important;
     }
 }
+
