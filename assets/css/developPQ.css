@@ -56,6 +56,7 @@ html, body {
     border-radius: 9px;
     transition: all 0.5s;
     text-decoration: none !important;
+    cursor: pointer;
 }
 
 .pq-btn:hover {
